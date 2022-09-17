@@ -1,3 +1,4 @@
+---
 title: "Scattering property based contextual PolSAR speckle filter"
 collection: publications
 permalink: /publication/paper8
