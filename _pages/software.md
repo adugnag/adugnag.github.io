@@ -5,7 +5,7 @@ gallery:
 header:
 ---
 
-My research interest is in SAR, PolSAR and InSAR image and signal processing. Therefore, I have developed several methods, workflows and architectures to perform extract, load, transform tasks in this domain. Here are some selected developments in the mentioned areas.
+My research interest is in SAR, PolSAR and InSAR image and signal processing for environmental monitoring. Therefore, I have developed several methods, workflows and architectures to perform extract, load, transform tasks in this domain. Here are some selected developments in the mentioned areas.
 
 ### Sentinel-1 SAR backscatter analysis ready data preparation in Google Earth Engine
 
