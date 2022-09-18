@@ -1,2 +1,2 @@
 
-Thee style for this website is adopted fromm academicpages/academicpages.github.io 
+The style for this website is adopted from academicpages/academicpages.github.io 
