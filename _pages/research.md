@@ -13,7 +13,7 @@ understand the changes and complex drivers so that we can design sustainable sol
 decisions. In this regard, microwave remote sensing data such as SAR have been a game changer
 for providing images in near real time in almost all weather day and night. However, the large
 volume of image data that is being acquired from all available SAR satellites in orbit and the number of
-skilled professionals that are available to analyze and derive much needed insights is severely
+skilled professionals that are available to analyze and derive much needed insights is greatly
 imbalanced. 
 
 Therefore, machine learning based approaches that processes global scale data and derive complex insights from
