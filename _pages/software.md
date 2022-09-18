@@ -9,7 +9,7 @@ My research interest is in SAR, PolSAR and InSAR image and signal processing. Th
 
 ### Sentinel-1 SAR backscatter analysis ready data preparation in Google Earth Engine
 
-I am the main developer and maintainer of the [gee_s1_ard](https://github.com/adugnag/gee_s1_ard) of Javascript and Python scripts that are used to process Sentinel-1 SAR ground range detected images to the analysis ready data level. The scripts perform additional border noise correction, mono-temporal and multi-temporal speckle filters and radiometric terrain correction. 
+I am the main developer and maintainer of the [gee_s1_ard](https://github.com/adugnag/gee_s1_ard) scripts developed in GEE Javascript and Python API  used to process Sentinel-1 SAR ground range detected images to the analysis ready data level. The scripts perform additional border noise correction, mono-temporal and multi-temporal speckle filters and radiometric terrain flattening. 
 
 ![](/images/software/S1-ARD-framework.png)
 
