@@ -17,4 +17,10 @@ gallery:
 header:
 ---
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
+As my research interest is in processing SAR, PolSAR and InSAR signal processing I have developed several scripts to these effect. Some selected developments are:
+
+# Sentinel-1 SAR backscatter analysis ready data preparation in Google Earth Engine
+
+I am the main developer and maintainer of the [gee_s1_ard]([/images/software/](https://github.com/adugnag/gee_s1_ard) of Javascript and Python scripts that are used to process Sentinel-1 SAR ground range detected images to the analysis ready data level. The scripts perform additional border noise correction, mono-temporal and multi-temporal speckle filters and radiometric terrain correction. 
+
+![](/images/software/S1-ARD-framework.png)
