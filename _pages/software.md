@@ -5,7 +5,7 @@ gallery:
 header:
 ---
 
-As my research interest is in processing SAR, PolSAR and InSAR signal processing I have developed several scripts to these effect. For my development my preferred programming language is Python and for machine learning, my prefered framework is Tensorflow. Some selected developments are:
+My research interest is in SAR, PolSAR and InSAR image and signal processing. Therefore, I have developed several methods, workflows and architectures to perform extract, load, transform tasks. My prefered programming language is Python. For machine learning based tasks I use Tensorflow. For tasks involving satellite image based environmental monitoring problems, My prefered framework is Google Earth Engine. Some selected developments are:
 
 ### Sentinel-1 SAR backscatter analysis ready data preparation in Google Earth Engine
 
