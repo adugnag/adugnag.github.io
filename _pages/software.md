@@ -21,7 +21,7 @@ I have developed deep learning based methods to despeckle single channel SAR ima
 
 and PolSAR image despeckling in the complex domain [CV-deSpeckNet](https://github.com/adugnag/CV-deSpeckNet).
 
-![](/images/software/CV-deSpeckNet.png)
+![](/images/software/CV-despecknet.png)
 
 ## SAR and optical time-series classification
 
