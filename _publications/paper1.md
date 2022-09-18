@@ -12,5 +12,5 @@ data preparation in google earth engine, Remote Sensing 13 (10) (2021)
 1954'
 ---
 
-[Download paper here](https://github.com/adugnag/adugnag.github.io/blob/master/files/S1_ARD_remotesensing-13-01954.pdf)
+
 
