@@ -8,13 +8,13 @@ author_profile: true
 
 <b>Publications</b>
 
-**A. Mullissa**, C. Odongo-Braun, B. Slagter, J. Balling,Y. Gou, N. Gorelick, J. Reiche, “Sentinel-1 sar backscatter analysis ready data preparation in google earth engine” *Remote Sensing*, vol. 10, no. 13, pp. 1953, May 2021. [[full text]](http://adugnag.github.io/files/S1_ARD_remotesensing-13-01954.pdf)
+**A. Mullissa**, C. Odongo-Braun, B. Slagter, J. Balling,Y. Gou, N. Gorelick, J. Reiche, “Sentinel-1 sar backscatter analysis ready data preparation in google earth engine” *Remote Sensing*, vol. 10, no. 13, pp. 1953, May 2021. [[full text]](http://adugnag.github.io/files/S1_ARD_remotesensing-13-01954.pdf) [[code]](https://github.com/adugnag/gee_s1_ard)
 
-**A. Mullissa**, C. Persello and J. Reiche, "Despeckling Polarimetric SAR Data Using a Multistream Complex-Valued Fully Convolutional Network" * IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 1-5, March 2022. [[full text]](http://adugnag.github.io/files/cv-despecknet_published.pdf) 
+**A. Mullissa**, C. Persello and J. Reiche, "Despeckling Polarimetric SAR Data Using a Multistream Complex-Valued Fully Convolutional Network" * IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 1-5, March 2022. [[full text]](http://adugnag.github.io/files/cv-despecknet_published.pdf) [[code]](https://github.com/adugnag/CV-deSpeckNet) 
 
 J. Reiche, **A. Mullissa**, B. Slagter, Y. Gou, N.-E. Tsendbazar, C. Odongo-Braun, A. Vollrath, M. J. Weisse, F. Stolle, A. Pickens, et al., "Forest disturbance alerts for the congo basin using sentinel-1" *Environmental Research Letters* 16 (2) (2021) 024005 [[full text]](http://adugnag.github.io/files/Reiche_2021_Environ._Res._Lett._16_024005.pdf) 
 
-**A. Mullissa**, D. Marcos, D. Tuia, M. Herold and J. Reiche, "deSpeckNet: Generalizing Deep Learning-Based SAR Image Despeckling "IEEE Transactions on Geoscience and Remote Sensing" , vol. 60, pp. 1-15, 2022 [[full text]](http://adugnag.github.io/files/deSpeckNet_published.pdf)
+**A. Mullissa**, D. Marcos, D. Tuia, M. Herold and J. Reiche, "deSpeckNet: Generalizing Deep Learning-Based SAR Image Despeckling "IEEE Transactions on Geoscience and Remote Sensing" , vol. 60, pp. 1-15, 2022 [[full text]](http://adugnag.github.io/files/deSpeckNet_published.pdf) [[MATLAB code]](https://github.com/adugnag/deSpeckNet) [[GEE code]](https://github.com/adugnag/deSpeckNet-TF-GEE)
 
 A. Vollrath, **A. Mullissa**, J. Reiche, "Angular-Based Radiometric Slope Correction for Sentinel-1 on Google Earth Engine" *Remote Sensing* 2020, 12, 1867. [[full text]](http://adugnag.github.io/files/Volli-mullissa_reiche_RS_2020.pdf)
 
