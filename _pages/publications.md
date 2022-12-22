@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-
-<b>Publications</b>
 
 **A. Mullissa**, C. Odongo-Braun, B. Slagter, J. Balling,Y. Gou, N. Gorelick, J. Reiche, “Sentinel-1 sar backscatter analysis ready data preparation in google earth engine” *Remote Sensing*, vol. 10, no. 13, pp. 1953, May 2021. [[full text]](http://adugnag.github.io/files/S1_ARD_remotesensing-13-01954.pdf) [[code]](https://github.com/adugnag/gee_s1_ard)
 
