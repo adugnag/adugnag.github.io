@@ -11,7 +11,7 @@ citation: 'A. Mullissa, A. Vollrath, C. Odongo-Braun, B. Slagter, J. Balling,Y. 
 ---
 [[Paper]](https://doi.org/10.3390/rs13101954) [[Code]](https://github.com/adugnag/gee_s1_ard)
 
-##Abstract
+## Abstract
 
 Sentinel-1 satellites provide temporally dense and high spatial resolution synthetic aperture
 radar (SAR) imagery. The open data policy and global coverage of Sentinel-1 make it a valuable
