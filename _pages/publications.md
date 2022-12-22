@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications [(Google Scholar Profile)](https://scholar.google.nl/citations?user=sU3sx0AAAAAJ&hl=en)"
+title: "Publications" [(Google Scholar Profile)](https://scholar.google.nl/citations?user=sU3sx0AAAAAJ&hl=en)
 permalink: /publications/
 author_profile: true
 ---
 <br>
 
-<b>Peer-reviewed Papers</b>
+<b>Publications</b>
 
 **A. Mullissa**, C. Odongo-Braun, B. Slagter, J. Balling,Y. Gou, N. Gorelick, J. Reiche, “Sentinel-1 sar backscatter analysis ready data preparation in google earth engine” *Remote Sensing*, vol. 10, no. 13, pp. 1953, May 2021. [[full text]](http://adugnag.github.io/files/S1_ARD_remotesensing-13-01954.pdf)
 
@@ -21,6 +21,8 @@ A. Vollrath, **A. Mullissa**, J. Reiche, "Angular-Based Radiometric Slope Correc
 **A.  Mullissa**, D. Perissin, V. A. Tolpekin and A. Stein, "Polarimetry-Based Distributed Scatterer Processing Method for PSI Applications" *IEEE Transactions on Geoscience and Remote Sensing*, vol. 56, no. 6, pp. 3371-3382 [[full text]](http://adugnag.github.io/files/08293685_small.pdf)
 
 **A. Mullissa**, C. Persello and A. Stein, "PolSARNet: A Deep Fully Convolutional Network for Polarimetric SAR Image Classification" *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* [[full text]](http://adugnag.github.io/files/PolSARNet_published.pdf)
+
+**A. Mullissa**, "Quality aspects of distributed scatterers in polarimetric differential SAR interferometry" *University of Twente, Faculty of Geo-Information Science and Earth Observation (ITC)* Decenber 2017 [[full text]](http://adugnag.github.io/files/Adugna_Mullissa_PhD_Dissertation.pdf)
 
 **A. Mullissa**, V. Tolpekin, and A. Stein, “Scattering property based contextual PolSAR speckle filter” *Int. J. Appl. Earth Observ. Geoinf.*, vol. 63, pp. 78–89, Dec. 2017 [[full text]](http://adugnag.github.io/files/1-s2.0-S0303243417301502-main.pdf)
 
