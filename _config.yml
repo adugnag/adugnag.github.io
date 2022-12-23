@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Adugna Mullissa"
 title_separator          : "-"
-name                     : &name "Adugna Girma Mullissa"
+name                     : &name "Adugna G. Mullissa"
 description              : &description "Researcher at Wageningen Unniversity and Research"
 url                      : https://adugnag.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Adugna G. Mullissa"
+  name             : "Dr. Adugna Mullissa"
   avatar           : "Mullissa.jpg"
   bio              : "Earth observation data scientist/ Big data engineer"
   location         : "Wageningen, the Netherlands"
