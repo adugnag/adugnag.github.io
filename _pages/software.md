@@ -23,12 +23,6 @@ and PolSAR image despeckling in the complex domain [CV-deSpeckNet](https://githu
 
 ![](/images/software/CV-despecknet.png)
 
-### SAR and optical time-series classification
-
-I have also developed methods to fuse SAR and optical time-series data for the detection of forest disturbance [S1-S2-Transformer](https://github.com/adugnag/S1-S2_Transformer). I used a transformer architecture to implicitly learn the seasonality pattern of time-series signals in tropical dry forests.
-
-![](/images/software/S1-S2-Transformer.png)
-
 ### SAR images semantic segmentation
 
 I have also developed methods to perform semantic segmentation for SAR image time-series data [SAR-FCN-DK3](https://github.com/adugnag/SAR-FCN-DK3). I used a fully convolutional network with dilated kernels for landcover classification.
