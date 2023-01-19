@@ -23,6 +23,10 @@ and PolSAR image despeckling in the complex domain [CV-deSpeckNet](https://githu
 
 ![](/images/software/CV-despecknet.png)
 
+### SAR and optical time-series classification
+
+ I have also developed methods to fuse SAR and optical time-series data for the detection of forest disturbance. I used recurrent neural networks such as LSTM to implicitly learn the seasonality pattern of time-series signals in tropical dry forests.
+
 
 ### SAR images semantic segmentation
 
