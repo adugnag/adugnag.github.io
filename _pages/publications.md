@@ -11,7 +11,7 @@ author_profile: true
 
 J. Reiche, **A. Mullissa**, B. Slagter, Y. Gou, N.-E. Tsendbazar, C. Odongo-Braun, A. Vollrath, M. J. Weisse, F. Stolle, A. Pickens, et al., "Forest disturbance alerts for the congo basin using sentinel-1" *Environmental Research Letters* 16 (2) (2021) 024005 [[full text]](http://adugnag.github.io/files/Reiche_2021_Environ._Res._Lett._16_024005.pdf) 
 
-Slagter, B., Reiche, J., Marcos, D., **Mullissa, A.**, Lossou, E., Peña-Claros, M., Herold, M. Monitoring direct drivers of small-scale tropical forest disturbance in near real-time with sentinel-1 and -2 data. *Remote Sensing of Environment*, 295, (2023), [[full text]](113655. https://doi.org/10.1016/j.rse.2023.113655)   
+Slagter, B., Reiche, J., Marcos, D., **Mullissa, A.**, Lossou, E., Peña-Claros, M., Herold, M. Monitoring direct drivers of small-scale tropical forest disturbance in near real-time with sentinel-1 and -2 data. *Remote Sensing of Environment*, 295, (2023), [[full text]](http://adugnag.github.io/files/bart_drivers.pdf)   
 
 **A. Mullissa**, D. Marcos, D. Tuia, M. Herold and J. Reiche, "deSpeckNet: Generalizing Deep Learning-Based SAR Image Despeckling" *IEEE Transactions on Geoscience and Remote Sensing* , vol. 60, pp. 1-15, 2022 [[full text]](http://adugnag.github.io/files/deSpeckNet_published.pdf) [[MATLAB code]](https://github.com/adugnag/deSpeckNet) [[GEE code]](https://github.com/adugnag/deSpeckNet-TF-GEE)
 
