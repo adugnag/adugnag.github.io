@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**A. Mullissa**, J. Reiche, M. Herold, “Deep learning and automatic reference label harvesting for Sentinel-1 SAR-based rapid tropical dry forest disturbance mapping” *Remote Sensing*, 298, 113799, December 2023. [[full text]](http://adugnag.github.io/files/mullissa_dry_forest_2023.pdf)
+
 **A. Mullissa**, C. Odongo-Braun, B. Slagter, J. Balling,Y. Gou, N. Gorelick, J. Reiche, “Sentinel-1 SAR backscatter analysis ready data preparation in google earth engine” *Remote Sensing*, vol. 10, no. 13, pp. 1953, May 2021. [[full text]](http://adugnag.github.io/files/S1_ARD_remotesensing-13-01954.pdf) [[code]](https://github.com/adugnag/gee_s1_ard)
 
 **A. Mullissa**, C. Persello and J. Reiche, "Despeckling Polarimetric SAR Data Using a Multistream Complex-Valued Fully Convolutional Network" *IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 1-5, March 2022. [[full text]](http://adugnag.github.io/files/cv-despecknet_published.pdf) [[code]](https://github.com/adugnag/CV-deSpeckNet) 
