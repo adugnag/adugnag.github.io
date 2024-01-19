@@ -39,6 +39,6 @@ A. Vollrath, **A. Mullissa**, J. Reiche, "Angular-Based Radiometric Slope Correc
 
 **A. Mullissa**, D. Marcos, M. Herold, J. Reiche “Dual Polarimetric SAR Covariance Matrix Estimation Using Deep Learning” *IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](http://adugnag.github.io/files/Dual_Polarimetric_SAR_Covariance_Matrix_Estimation_Using_Deep_Learning.pdf)
 
-**A. Mullissa**,  J. Reiche, S. Saatchi “Seasonal Forest Disturbance Detection Using Sentinel-1 SAR & Sentinel-2 Optical Timeseries Data and Transformers” *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](http://adugnag.github.io/files/Seasonal_Forest_Disturbance_Detection_Using_Sentinel-1_SAR_amp_Sentinel-2_Optical_Timeseries_Data_and_Transformers-2.pdf)
+**A. Mullissa**,  J. Reiche, S. Saatchi “Seasonal Forest Disturbance Detection Using Sentinel-1 SAR & Sentinel-2 Optical Timeseries Data and Transformers” *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](Seasonal_Forest_Disturbance_Detection_Using_Sentinel-1_SAR_amp_Sentinel-2_Optical_Timeseries_Data_and_Transformers-2.pdf)
 
 Google scholar profile can be found [here](https://scholar.google.nl/citations?user=sU3sx0AAAAAJ&hl=en)
