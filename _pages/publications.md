@@ -27,6 +27,6 @@ A. Vollrath, **A. Mullissa**, J. Reiche, "Angular-Based Radiometric Slope Correc
 
 **A. Mullissa**, V. Tolpekin, and A. Stein, “Scattering property based contextual PolSAR speckle filter” *Int. J. Appl. Earth Observ. Geoinf.*, vol. 63, pp. 78–89, Dec. 2017 [[full text]](http://adugnag.github.io/files/1-s2.0-S0303243417301502-main.pdf)
 
-**A. Mullissa**, V. Tolpekin, A. Stein, and D. Perissin “Polarimetric differential SAR interferometry in an arid natural environment” *Int. J. Appl. Earth Observ. Geoinf.*, vol. 59, pp. 9–18, Jul. 2017 [[full text]](http://adugnag.github.io/file/1-s2.0-S0303243417300454-main.pdf)
+**A. Mullissa**, V. Tolpekin, A. Stein, and D. Perissin “Polarimetric differential SAR interferometry in an arid natural environment” *Int. J. Appl. Earth Observ. Geoinf.*, vol. 59, pp. 9–18, Jul. 2017 [[full text]](http://adugnag.github.io/files/1-s2.0-S0303243417300454-main.pdf)
 
 Google scholar profile can be found [here](https://scholar.google.nl/citations?user=sU3sx0AAAAAJ&hl=en)
