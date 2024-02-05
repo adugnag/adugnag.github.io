@@ -35,8 +35,6 @@ A. Vollrath, **A. Mullissa**, J. Reiche, "Angular-Based Radiometric Slope Correc
 
 **A. Mullissa**, V. Tolpekin, A. Stein, and D. Perissin “Polarimetric differential SAR interferometry in an arid natural environment” *Int. J. Appl. Earth Observ. Geoinf.*, vol. 59, pp. 9–18, Jul. 2017 [[full text]](http://adugnag.github.io/files/1-s2.0-S0303243417300454-main.pdf)
 
-**A. Mullissa**, V. Tolpekin, A. Stein, and D. Perissin “Polarimetric differential SAR interferometry in an arid natural environment” *Int. J. Appl. Earth Observ. Geoinf.*, vol. 59, pp. 9–18, Jul. 2017 [[full text]](http://adugnag.github.io/files/1-s2.0-S0303243417300454-main.pdf)
-
 **A. Mullissa**, C. Persello, V. Tolpekin “Fully Convolutional Networks For Multi-temporal SAR Image Classification” *IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](http://adugnag.github.io/files/Fully_Convolutional_Networks_for_Multi-Temporal_SAR_Image_Classification.pdf)
 
 **A. Mullissa**, D. Marcos, M. Herold, J. Reiche “Dual Polarimetric SAR Covariance Matrix Estimation Using Deep Learning” *IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](http://adugnag.github.io/files/Dual_Polarimetric_SAR_Covariance_Matrix_Estimation_Using_Deep_Learning.pdf)
