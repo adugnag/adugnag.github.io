@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist and big data engineer at Ctrees, a non-profit tech startup based in California. Our mission is to comprehensively track carbon in every tree worldwide and provide science-based data to support natural climate solutions across various scales. Additionally, I hold a researcher position at the Institute of the Environment and Sustainability (IoES) at the University of California, Los Angeles (UCLA).
+I am a research scientist and big data engineer at Ctrees, a non-profit tech startup based in Pasadena, California. Our mission is to comprehensively track carbon in every tree worldwide and provide science-based data to support natural climate solutions across various scales. Additionally, I hold a researcher position at the Institute of the Environment and Sustainability (IoES) at the University of California, Los Angeles (UCLA).
 
 In my previous role, from 2019 to 2023, I worked as a researcher at the Laboratory of Geo-information Science and Remote Sensing at Wageningen University, the Netherlands. During this time, my focus was on the development of radar and deep learning methods for near-real-time forest change monitoring. Prior to that, from 2018 to 2019, I conducted postdoctoral research at the University of Twente, the Netherlands, where I explored deep learning methodologies for crop classification using polarimetric Synthetic Aperture Radar (SAR) data. I completed my Ph.D. (2017) in  Radar Remote Sensing at the University of Twente in Enschede, The Netherlands.  
 
