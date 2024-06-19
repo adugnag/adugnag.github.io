@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**A. Mullissa**, S. Saatchi, R. Dalagnol, T. Erickson, N. Provost, F. Osborn, A. Ashary, V. Moon, D. Melling, "LUCA: A Sentinel-1 SAR-Based Global Forest Land Use Change Alert" *Remote Sensing* 16 (12) (2024) 2151 [[full text]](http://adugnag.github.io/files/remotesensing-16-02151_published_small.pdf) 
+
 N. Moraiti, **A. Mullissa**, E. Rahn, M. Sassen, J. Reiche, "Critical Assessment of Cocoa Classification with Limited Reference Data: A Study in Côte d’Ivoire and Ghana Using Sentinel-2 and Random Forest Model" *Remote Sensing* 16 (3) (2024) 598 [[full text]](http://adugnag.github.io/files/remotesensing-16-00598.pdf) 
 
 F. Wagner, S. Favrichon, R. Dalagnol, M. Hirye, **A.Mullissa**, S. Saatchi, "The Amazon’s 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction" *Remote Sensing* 16 (6) (2024) 1056 [[full text]](http://adugnag.github.io/files/remotesensing-fwagner-16-01056-v2.pdf) 
