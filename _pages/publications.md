@@ -39,10 +39,14 @@ A. Vollrath, **A. Mullissa**, J. Reiche, "Angular-Based Radiometric Slope Correc
 
 **A. Mullissa**, V. Tolpekin, A. Stein, and D. Perissin “Polarimetric differential SAR interferometry in an arid natural environment” *Int. J. Appl. Earth Observ. Geoinf.*, vol. 59, pp. 9–18, Jul. 2017 [[full text]](http://adugnag.github.io/files/1-s2.0-S0303243417300454-main.pdf)
 
+Gaso, D. V., Paudel, D., de Wit, A., Puntel, L. A., **Mullissa, A.**, & Kooistra, L. (2024). Beyond assimilation of Leaf Area index: Leveraging additional spectral information using machine learning for site-specific soybean yield prediction. Agricultural and Forest Meteorology, 351, 110022. https://doi.org/10.1016/j.agrformet.2024.110022 
+
 **A. Mullissa**, C. Persello, V. Tolpekin “Fully Convolutional Networks For Multi-temporal SAR Image Classification” *IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](http://adugnag.github.io/files/Fully_Convolutional_Networks_for_Multi-Temporal_SAR_Image_Classification.pdf)
 
 **A. Mullissa**, D. Marcos, M. Herold, J. Reiche “Dual Polarimetric SAR Covariance Matrix Estimation Using Deep Learning” *IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](http://adugnag.github.io/files/Dual_Polarimetric_SAR_Covariance_Matrix_Estimation_Using_Deep_Learning.pdf)
 
 **A. Mullissa**,  J. Reiche, S. Saatchi “Seasonal Forest Disturbance Detection Using Sentinel-1 SAR & Sentinel-2 Optical Timeseries Data and Transformers” *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium, IEEE*,[[full text]](http://adugnag.github.io/files/Seasonal_Forest_Disturbance_Detection_Using_Sentinel-1_SAR_amp_Sentinel-2_Optical_Timeseries_Data_and_Transformers-2.pdf)
+
+**A. Mullissa**, and S. Saatchi, "Sentinel-1 SAR Based Weakly Supervised Learning for Tropical Forest Mapping," *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, IEEE*, Athens, Greece, 2024, pp. 2191-2195, doi: 10.1109/IGARSS53475.2024.10642847.[[full text]](http://adugnag.github.io/files/Sentinel-1_SAR_Based_Weakly_Supervised_Learning_for_Tropical_Forest_Mapping.pdf)
 
 Google scholar profile can be found [here](https://scholar.google.nl/citations?user=sU3sx0AAAAAJ&hl=en)
