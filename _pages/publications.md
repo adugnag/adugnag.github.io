@@ -11,6 +11,8 @@ N. Moraiti, **A. Mullissa**, E. Rahn, M. Sassen, J. Reiche, "Critical Assessment
 
 F. Wagner, S. Favrichon, R. Dalagnol, M. Hirye, **A.Mullissa**, S. Saatchi, "The Amazon’s 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction" *Remote Sensing* 16 (6) (2024) 1056 [[full text]](http://adugnag.github.io/files/remotesensing-fwagner-16-01056-v2.pdf) 
 
+Wagner, F. H., Dalagnol, R., Carter, G., Hirye, M. C. M., Gill, S., Takougoum, L. B. S., Favrichon, S., Keller, M., Ometto, J. P. H. B., Alves, L., Creze, C., George‐Chacon, S. P., Li, S., Liu, Z., **Mullissa, A.**, Yang, Y., Santos, E. G., Worden, S. R., Brandt, M., . . . Saatchi, S. (2025). Wall‐to‐wall Amazon forest height mapping with Planet NICFI , Aerial LiDAR , and a U‐Net regression model. Remote Sensing in Ecology and Conservation. https://doi.org/10.1002/rse2.70041 [[full text]](http://adugnag.github.io/files/Remote Sens Ecol Conserv - 2025 - Wagner - Wall‐to‐wall Amazon forest height mapping with Planet NICFI  Aerial LiDAR  and a.pdf) 
+
 **A. Mullissa**, J. Reiche, M. Herold, “Deep learning and automatic reference label harvesting for Sentinel-1 SAR-based rapid tropical dry forest disturbance mapping” *Remote Sensing of Environment*, 298, 113799, December 2023. [[full text]](http://adugnag.github.io/files/mullissa_dry_forest_2023.pdf) 
 
 **A. Mullissa**, C. Odongo-Braun, B. Slagter, J. Balling,Y. Gou, N. Gorelick, J. Reiche, “Sentinel-1 SAR backscatter analysis ready data preparation in google earth engine” *Remote Sensing*, vol. 10, no. 13, pp. 1953, May 2021. [[full text]](http://adugnag.github.io/files/S1_ARD_remotesensing-13-01954.pdf) [[code]](https://github.com/adugnag/gee_s1_ard)
